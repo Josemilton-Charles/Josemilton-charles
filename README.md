@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### I'm Josemilton Charles 👋
 
-[![linKedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/josemilton-charles-7a491290)
+[![linKedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/josemilton-charles-7a491290](https://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BIu5o%2BRbjSK6fwqj2uDji%2FQ%3D%3D))
 
 ![Charles Github stats](https://github-stats-extended.vercel.app/api?username=Josemilton-Charles&theme=ambient_gradient)
 
